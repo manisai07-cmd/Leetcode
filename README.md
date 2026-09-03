@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/manisai07-cmd/Leetcode/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/manisai07-cmd/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/manisai07-cmd/Leetcode/tree/master/0620-not-boring-movies) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/manisai07-cmd/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/manisai07-cmd/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/manisai07-cmd/Leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
